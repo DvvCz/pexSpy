@@ -13,7 +13,7 @@ This is an editor for `.pex` files, allowing you to edit the metadata and the in
 
 ## Supported
 
-> [!INFO]
+> [!NOTE]
 > It isn't difficult to support the pex format across games, there's only a couple minute differences, but I'm only testing with Skyrim so I can't ensure the rest work fine.
 > You can submit an issue if you encounter problems, or let me know if it works fine for you.
 
